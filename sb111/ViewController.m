@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //444
     
+    NSLog(@"");
     //555
     
 //    666
