@@ -20,6 +20,8 @@
     //444
     
     NSLog(@"");
+    
+    self.view.backgroundColor = [UIColor redColor];
     //555
     
 //    666
